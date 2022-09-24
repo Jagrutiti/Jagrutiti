@@ -2,7 +2,7 @@
 <ul>
 <li> I am an open source beginner.
 <li> I am interested in learning technical writing, documentation. 
-<li> Checkout my blogs recent articles at <a href="https://www.freecodecamp.org/news/author/jagruti/">FreeCodeCamp</a> and old ones at <a href="https://medium.com/@tiwarijagruti1">Medium.</a>
+<li> Checkout my recent articles at <a href="https://www.freecodecamp.org/news/author/jagruti/">FreeCodeCamp</a> and old ones at <a href="https://medium.com/@tiwarijagruti1">Medium.</a>
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrutiti&label=Profile%20views&color=6805D3&style=flat" alt="jagrutiti" /> </p>
