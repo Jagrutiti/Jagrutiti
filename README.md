@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋 ! This is <a href="https://www.linkedin.com/in/jagruti-tiwari/">Jagruti Tiwari</a></h1>
 <ul>
 <li> I am an open source beginner.
-<li> I am interested in learning technical writing, documentation. 
+<li> Interested in learning technical writing, documentation, and volunteering to open source projects. 
 <li> Checkout my recent articles at <a href="https://www.freecodecamp.org/news/author/jagruti/">FreeCodeCamp</a> and old ones at <a href="https://medium.com/@tiwarijagruti1">Medium.</a>
 <br><br>
 
@@ -47,7 +47,7 @@ Databases
 
 
 <h1 align="center">⚡ Github statistics</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=jagrutiti&show_icons=true&theme=dark&locale=en" alt="jagrutiti" />
+<img src="https://github-readme-stats.vercel.app/api?username=jagrutiti&show_icons=true&theme=dracula&locale=en" alt="jagrutiti" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagrutiti&layout=compact&theme=dark)](https://github.com/haripriya9647/github-readme-stats)
 
